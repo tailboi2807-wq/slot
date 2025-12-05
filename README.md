@@ -116,7 +116,8 @@ Execute the program using runserver command.
 </html>
 ~~~
 ## OUTPUT
-(https://github.com/user-attachments/assets/98d6dd53-5768-44e8-9bec-332f1f1624c4)
+![slot_time_table](https://github.com/user-attachments/assets/a1fff230-35c0-4106-a012-224a16f2f861)
+
 
 
 
